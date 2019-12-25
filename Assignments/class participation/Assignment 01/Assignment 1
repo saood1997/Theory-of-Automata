@@ -1,0 +1,4 @@
+Write descriptive definition of ten languages along with its first ten word in canonical form. e.g. 
+Model Answer:
+L1: All string that contains two times 'a' for sigma {a,b}
+L1={aa, aaa, aab, aba, baa, aaaa, aaab, aaba, aabb, abab, ...}
